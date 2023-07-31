@@ -1,4 +1,4 @@
-![발전소 사진](./image/plant.jpg)
+![발전소 사진](./images/plant.jpg)
 
 # Data Analytics for Incentive
 "발전량 예측 정산금" 을 높이기 위한 데이터 분석 프로젝트.
